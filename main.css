@@ -3,6 +3,18 @@
     border: 2px solid red;
     border-radius: 50%;
     width: 200px;
-    height: 200px 
-    ;
+    height: 200px ;
+
+}
+.b1{
+    background-color: aqua;
+}
+.b2{
+background-color: bisque;
+}
+.b3{
+background-color: blue;
+}
+.b4{
+background-color: brown;
 }
